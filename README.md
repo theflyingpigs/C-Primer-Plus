@@ -1,4 +1,5 @@
 # CPrimerPlus
+## 基础信息
 《C Primer Plus》中文第6版 配套源代码
 
 中文书名：C Primer Plus (第6版) 中文版
@@ -18,7 +19,7 @@ ISBN: 978-7-115-39059-2
 源代码下载地址：
     https://box.lenovo.com/l/yJ4bt8 提取码：ed11
     https://www.epubit.com/bookDetails?id=N24770
-
+## 详细介绍
 Chapter01   第1章 初识C语言
     01. listing1.c                          ===> 演示编译用的源代码
     02. listing2.c                          ===> 用于说明编译机制的源代码
